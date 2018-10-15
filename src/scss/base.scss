@@ -1,0 +1,10 @@
+@import '_variaveis';
+@import "~bootstrap/scss/bootstrap";
+
+body{
+    background-color: $cor_de_fundo;
+}
+
+h1{
+    color: $cor-h1;
+}
